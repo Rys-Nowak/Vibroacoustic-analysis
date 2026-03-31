@@ -12,3 +12,7 @@ Important:
 - The input directories provided in split_all() must contain the subfolders: speed_10, speed_15, and speed_25, each holding the corresponding WAV files.
 
 Please ensure that your data is organized accordingly before running the segmentation step to guarantee correct processing in subsequent stages.
+
+### Results
+
+Project results and conclusions are available in the file `vibroacoustic_signals_article_pl.pdf` (in Polish)
